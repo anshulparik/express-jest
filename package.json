@@ -7,7 +7,7 @@
     "dev": "nodemon src/index.ts",
     "build": "tsc",
     "typecheck": "tsc --noEmit",
-    "test": "npx jest"
+    "test": "npx jest --watchAll"
   },
   "keywords": [],
   "author": "",
